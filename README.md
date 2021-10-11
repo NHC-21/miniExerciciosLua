@@ -1,1 +1,1 @@
-    Mini Exercícios de Lua
+    Mini Exercícios Lua
